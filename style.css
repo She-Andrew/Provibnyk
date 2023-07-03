@@ -123,7 +123,7 @@ body{
 }
 
 .fullscreen__title {
-    font-size: 100px;
+    font-size: 80px;
     color: #fff;
     margin-bottom: 30px;
 }
@@ -133,7 +133,7 @@ body{
 }
 
 .fullscreen__text {
-    font-size: 30px;
+    font-size: 24px;
     color: #fff;
     width: 700px;
     font-family: 'Roboto Mono', monospace;
@@ -143,12 +143,15 @@ body{
 .fullscreen__button {
     padding: 30px 80px ;
     border-radius: 20px;
-    font-size: 20px;
+    font-size: 35px;
+    color: #000;
+    font-weight: 900;    
     background-color: #69cef3;
 }
 
 .fullscreen__photo {
     border-radius: 5px;
+    width: 35%;
 }
 
 .arrow{
